@@ -31,6 +31,11 @@ module.exports = {
         sm: { max: '539px' },
         // => @media (max-width: 639px) { ... }
       },
+      colors: {
+        brand: {
+          primary: '#2fc7de'
+        },
+      },
     },
   },
   plugins: [],

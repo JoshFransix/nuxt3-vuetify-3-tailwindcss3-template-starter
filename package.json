@@ -11,14 +11,16 @@
   "devDependencies": {
     "@mdi/font": "^7.2.96",
     "@nuxt/devtools": "latest",
+    "@nuxtjs/google-fonts": "^3.0.2",
+    "@nuxtjs/supabase": "^1.0.2",
     "autoprefixer": "^10.4.15",
     "nuxt": "^3.7.0",
     "postcss": "^8.4.28",
+    "sass": "^1.66.1",
     "tailwindcss": "^3.3.3",
     "vite-plugin-vuetify": "^1.0.2"
   },
   "dependencies": {
-    "sass": "^1.66.1",
     "vuetify": "^3.3.14"
   }
 }
