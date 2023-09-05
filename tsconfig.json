@@ -1,7 +1,4 @@
 {
   // https://nuxt.com/docs/guide/concepts/typescript
-  "extends": "./.nuxt/tsconfig.json",
-  "types": [
-    "vue-sweetalert2"
-  ]
+  "extends": "./.nuxt/tsconfig.json"
 }

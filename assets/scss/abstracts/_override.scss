@@ -1,14 +1,5 @@
-@use "vuetify" with (
-  $utilities: false,
-  $body-font-family: "Poppins"
-);
-
 .v-application {
   .v-btn {
     text-transform: none;
   }
-}
-
-.fira {
-  font-family: "Fira Sans", sans-serif !important;
 }

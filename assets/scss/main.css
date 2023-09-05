@@ -1,4 +1,4 @@
-@forward "vuetify/settings" with (
+@forward 'vuetify/settings' with (
   $utilities: false,
   $button-height: 40px,
   $button-color: green,
@@ -10,7 +10,8 @@
   text-transform: none;
 }
 
-body {
+
+.body {
   font-family: "Poppins", sans-serif;
   transition: all 0.3s ease-in-out;
-} /*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
